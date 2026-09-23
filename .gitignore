@@ -1,4 +1,5 @@
 .claude/
+.git-autosave/
 ~$*.xlsx
 ~$*.docx
 ~$*.pptx
