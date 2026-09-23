@@ -1,0 +1,7 @@
+.claude/
+~$*.xlsx
+~$*.docx
+~$*.pptx
+*.tmp
+Thumbs.db
+desktop.ini
